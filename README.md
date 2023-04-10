@@ -4,14 +4,18 @@ However, sometimes I also review multimodal learning, graphml, and other deep le
 
 ### Papers' List
 
+**Vision-and-Laguage Navigation**
 * -1. **History Aware Multimodal Transformer for Vision-and-Language Navigation**
    * [review](https://github.com/blossominkyung/vln-paper-study/issues/2)
-  
 
-* -2. **FIBER: Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**
-   * [review](https://github.com/blossominkyung/vln-paper-study/issues/3)
-   * [by korean](https://www.blossominkyung.com/deeplearning/fiber)
 
-* -3. **Teaching old labels in Heterogeneous Graphs via Knowledge Transfer Networks**
+**GraphML**
+* -1. **Teaching old labels in Heterogeneous Graphs via Knowledge Transfer Networks**
    * [review](https://github.com/blossominkyung/vln-paper-study/issues/4)
    * [by korean](https://www.blossominkyung.com/deeplearning/ktn)
+
+  
+**Multimodal Learning**
+* -1. **FIBER: Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone**
+   * [review](https://github.com/blossominkyung/vln-paper-study/issues/3)
+   * [by korean](https://www.blossominkyung.com/deeplearning/fiber)
