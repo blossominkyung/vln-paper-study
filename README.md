@@ -3,7 +3,7 @@ This repository is to review vision-language-navigation papers for personal stud
 
 ### Papers' List
 
-* [1]**History Aware Multimodal Transformer for Vision-and-Language Navigation**
+* [1] **History Aware Multimodal Transformer for Vision-and-Language Navigation**
    * [review](https://github.com/blossominkyung/vln-paper-study/issues/2)
   
 
