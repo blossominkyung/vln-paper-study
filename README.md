@@ -6,7 +6,7 @@ However, sometimes I also review multimodal-learning, graphml, and other deep le
 All review contents are in [Issues](https://github.com/blossominkyung/vln-paper-study/issues).  
 If you have any interest, then please check Issues in this repository.
 
-- [X] FIBER: Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone(Microsoft, NeurIPS 2022). 
+- [X] FIBER: Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone(Microsoft, NeurIPS 2022) [click here!](https://github.com/blossominkyung/vln-paper-study/issues/3). 
 - [X] Teaching old labels in Heterogeneous Graphs via Knowledge Transfer Networks(Google Research, NeurIPS 2022). 
 - [ ] History Aware Multimodal Transformer for Vision-and-Language Navigation(NeurIPS 2021). 
 - [ ] TEACh: Task-driven Embodied Agents that Chat(Amazon Alexa AI, AAAI 2022). 
