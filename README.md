@@ -3,7 +3,9 @@ This repository is to review vision-language navigation papers for personal stud
 However, sometimes I also review multimodal learning, graphml, and other deep learnings. 
 
 ### index.
-
+* [Vision-and-Language Navigation](https://github.com/blossominkyung/vln-paper-study/blob/main/README.md#vision-and-laguage-navigation)
+* [GraphML](https://github.com/blossominkyung/vln-paper-study/blob/main/README.md#graphml)
+* [Multimodal Learning](https://github.com/blossominkyung/vln-paper-study/blob/main/README.md#multimodal-learning)
 
 ## papers' list
 ### Vision-and-Laguage Navigation
