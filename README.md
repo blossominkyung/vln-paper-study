@@ -5,4 +5,3 @@ However, sometimes I also review multimodal-learning, graphml, and other deep le
 ### contents
 All review contents are in [Issues](https://github.com/blossominkyung/vln-paper-study/issues).  
 If you have any interest, then please check Issues in this repository.
-
