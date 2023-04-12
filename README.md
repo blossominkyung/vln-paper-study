@@ -3,7 +3,7 @@ This repository is to review vision-language-navigation papers for personal stud
 However, sometimes I also review multimodal-learning, graphml, and other deep learnings. 
 
 ### contents
-All review contents are in [Issues](https://github.com/blossominkyung/vln-paper-study/issues).  
+All review contents are in [Issues](https://github.com/blossominkyung/vln-paper-study/issues), also in [personal blog](https://www.blossominkyung.com/deeplearning) but all is by Korean.  
 If you have any interest, then please check Issues in this repository.
 
 - [X] FIBER: Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone(Microsoft, NeurIPS 2022) [click here!](https://github.com/blossominkyung/vln-paper-study/issues/3).
