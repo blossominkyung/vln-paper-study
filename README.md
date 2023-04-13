@@ -12,8 +12,13 @@ If you have any interest, then please check Issues in this repository.
 
 - [X] History Aware Multimodal Transformer for Vision-and-Language Navigation(NeurIPS 2021) [click here!](https://github.com/blossominkyung/vln-paper-study/issues/2)
 
+- [ ] Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation(CVPR 2022).
+
 - [ ] TEACh: Task-driven Embodied Agents that Chat(Amazon Alexa AI, AAAI 2022). 
-- [ ] Think Global, Act Local(CVPR 2022). 
+- [ ] SOON: Scenario oriented object navigation with graph-based exploration(CVPR 2021).  
+- [ ] Evoloving graphical pallner: Contextual global planning for vision-and-language navigation(NeurIPS 2021). 
+- [ ] Strucutred scene memory for vision-language navigation(CVPR 2021). 
+ 
 - [ ] LERF: Language Embedded Radiance Fields(UC Berkely, 2023). 
 - [ ] Generative Agents: Interactive Simulacra of Human Behavior(Standford&Google Research, 2023). 
 - [ ] LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action(CoRL 2022). 
