@@ -18,7 +18,7 @@ If you have any interest, then please check Issues in this repository.
 - [ ] SOON: Scenario oriented object navigation with graph-based exploration(CVPR 2021).  
 - [ ] Evoloving graphical pallner: Contextual global planning for vision-and-language navigation(NeurIPS 2021). 
 - [ ] Strucutred scene memory for vision-language navigation(CVPR 2021). 
- 
+- [ ] Neural topological SLAM for visual navigation(CVPR 2020). 
 - [ ] LERF: Language Embedded Radiance Fields(UC Berkely, 2023). 
 - [ ] Generative Agents: Interactive Simulacra of Human Behavior(Standford&Google Research, 2023). 
 - [ ] LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action(CoRL 2022). 
