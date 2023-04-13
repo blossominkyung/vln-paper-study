@@ -12,7 +12,7 @@ If you have any interest, then please check Issues in this repository.
 
 - [X] History Aware Multimodal Transformer for Vision-and-Language Navigation(NeurIPS 2021) [click here!](https://github.com/blossominkyung/vln-paper-study/issues/2)
 
-- [ ] Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation(CVPR 2022).
+- [X] Think Global, Act Local: Dual-scale Graph Transformer for Vision-and-Language Navigation(CVPR 2022).
 
 - [ ] TEACh: Task-driven Embodied Agents that Chat(Amazon Alexa AI, AAAI 2022). 
 - [ ] SOON: Scenario oriented object navigation with graph-based exploration(CVPR 2021).  
